@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitalondhe-github&label=Profile%20views&color=0e75b6&style=flat" alt="nikitalondhe-github" /> </p>
 
-- 🌱 I’m currently learning **Java database connectivity(JDBC)**
+- 💻 I’m currently learning backend configurations using **Spring Boot** and **Microservices,** along with working on **database management**.
+🌱 My journey started with **Java Database Connectivity (JDBC)**, and now I’m diving deeper into backend technologies.
 
 - 📫 How to reach me **nikitalondhe661@gmail.com**
 
